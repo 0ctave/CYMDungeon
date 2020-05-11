@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: paper-1.15.2.jar cymAPI.jar worldedit-bukkit-7.1.0.jar Dunge
+ on.jar
+

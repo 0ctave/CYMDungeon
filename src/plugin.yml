@@ -1,0 +1,16 @@
+name: Dungeons
+main: fr.dungeons.Dungeons
+version: ALPHA_0.1
+author: Tylonium
+depend: [WorldEdit]
+softdepend:
+commands:
+  groupe:
+    usage:
+    description:
+  rd:
+    usage: /rd
+    description: refresh Dungeons
+  dungeon:
+    usage:
+    description:
